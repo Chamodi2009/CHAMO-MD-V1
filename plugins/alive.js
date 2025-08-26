@@ -3,7 +3,7 @@ const config = require('../config');
 
 cmd({
     pattern: "alive",
-    desc: "Check bot online or no.",
+    desc: "Check CHAMO-MD V1 online or no.",
     category: "main",
     filename: __filename
 },
