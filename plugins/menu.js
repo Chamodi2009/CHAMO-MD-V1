@@ -29,7 +29,7 @@ cmd(
         });
       }
 
-      let menuText = "📋 *Available Commands:*\n";
+      let menuText = "📋 *Available Commands ❤️‍🩹✨:*\n";
 
       for (const [cat, cmds] of Object.entries(categories)) {
         menuText += `\n📂 *${cat.toUpperCase()}*\n`;
@@ -45,3 +45,4 @@ cmd(
     }
   }
 );
+
